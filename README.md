@@ -19,11 +19,10 @@
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
 </p>
 
-#### Profile views counter
-
-![Visitor Count](https://profile-counter.glitch.me/{Abhay557}/count.svg)
-
 #### Other
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay557&theme=blue-green)
 
+#### Profile views counter
+
+![Visitor Count](https://profile-counter.glitch.me/{Abhay557}/count.svg)
