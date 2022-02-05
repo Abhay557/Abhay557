@@ -19,6 +19,6 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{Abhay557}/count.svg)
 
-### Badges
+### Other
 
-![Your Repository's Stats](https://contrib.rocks/image?repo=Abhay557/Python)
+![Your Repository's Stats](https://contrib.rocks/image?repo=Abhay557/Discord-Bot-Website)
