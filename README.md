@@ -3,13 +3,12 @@
 <p align="center">
 <img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
 </p>
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Abhay557&show_icons=true)
 
 - I'm  **Learner** | **Programmer** 
 - About me :- **Html Master** | **Web Apps**
 - Currently practicing **Deep Learning**
 - Willing to contribute more and more in **Open Source Projects**
-
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Abhay557&show_icons=true)
 
 ### Programming Languages....
 
