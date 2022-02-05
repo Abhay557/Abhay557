@@ -25,6 +25,6 @@
 
 #### Other
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?Abhay557=Abhay557&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?Abhay557=Your_GitHub_Username&theme=blue-green)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?Abhay557=Abhay557&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?Abhay557=Your_GitHub_Username&show_icons=true)
