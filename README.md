@@ -21,4 +21,4 @@
 
 ### Badges
 
-![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
+![Your Repository's Stats](https://contrib.rocks/image?repo=Abhay557/Python)
