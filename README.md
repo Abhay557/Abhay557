@@ -19,6 +19,4 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{Abhay557}/count.svg)
 
-### Other
 
-![Your Repository's Stats](https://contrib.rocks/image?repo=Abhay557/Discord-Bot-Website)
