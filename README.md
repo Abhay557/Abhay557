@@ -3,7 +3,7 @@
 <p align="center">
 <img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
 </p>
-
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=abhay557e&show_icons=true)
 
 - I'm  **Learner** | **Programmer** 
 - About me :- **Html Master** | **Web Apps**
