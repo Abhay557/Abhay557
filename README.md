@@ -3,7 +3,6 @@
 <p align="center">
 <img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
 </p>
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?Abhay557=Your_GitHub_Username&show_icons=true)
 
 
 - I'm  **Learner** | **Programmer** 
@@ -22,3 +21,4 @@
 
 #### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{Abhay557}/count.svg)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?Abhay557=Your_GitHub_Username&show_icons=true)
