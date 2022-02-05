@@ -15,6 +15,10 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay557&theme=blue-green)
 
-#### Profile views counter
+### Profile views counter
 
 ![Visitor Count](https://profile-counter.glitch.me/{Abhay557}/count.svg)
+
+### Badges
+
+![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
