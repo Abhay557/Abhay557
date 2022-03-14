@@ -6,7 +6,7 @@
 - Willing to contribute more and more in **Open Source Projects**
 ### Discord Status
 <a href="https://discord.com/users/765830997895544855">
-<img height="80px" src="https://discord.c99.nl/widget/theme-4/731754141331882017.png" />
+<img height="80px" src="https://discord.c99.nl/widget/theme-4/765830997895544855.png" />
 </a>
 
 <details>
