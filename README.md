@@ -1,22 +1,20 @@
-## Hi there, I'm Abhay Mourya
-
-<p align="center">
-<img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
-</p>
-
+## Hi there, I'm Abhay Mourya.
 - I'm  **Learner** | **Programmer** 
 - About me :- **Html Master** | **Web Apps**
+- Wanted To Be A | **Front-End/Back-End/Full-Stack**
 - Currently practicing **Deep Learning**
 - Willing to contribute more and more in **Open Source Projects**
+### Discord Status
+<a href="https://discord.com/users/731754141331882017">
+<img height="80px" src="https://discord.c99.nl/widget/theme-4/731754141331882017.png" />
+</a>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Abhay557&show_icons=true)
-
-### Programming Languages....
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay557&theme=blue-green)
-
+<details>
+  <summary>:zap: GitHub Stats</summary>
+</br>
+<img align="center" alt="Phantom's GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=SealedSaucer&&show_icons=true&theme=tokyonight&layout=compact" />
+</br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SealedSaucer&show_icons=true&theme=tokyonight&layout=compact" alt="SealedSaucer" />
 ### Profile views counter
 
 ![Visitor Count](https://profile-counter.glitch.me/{Abhay557}/count.svg)
-
-
