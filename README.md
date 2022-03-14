@@ -4,11 +4,6 @@
 - Wanted To Be A | **Front-End/Back-End/Full-Stack**
 - Currently practicing **Deep Learning**
 - Willing to contribute more and more in **Open Source Projects**
-### Discord Status
-<a href="https://discord.com/users/765830997895544855">
-<img height="80px" src="https://discord.c99.nl/widget/theme-4/765830997895544855.png" />
-</a>
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 </br>
@@ -19,3 +14,17 @@
 ### Profile views counter
 
 ![Visitor Count](https://profile-counter.glitch.me/{Abhay557}/count.svg)
+
+### Languages and Tools : 
+
+[<img align="left" alt="Python" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png" />](https://www.python.org/)
+[<img align="left" alt="HTML5" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-128.png" />](https://www.w3.org/html/)
+[<img align="left" alt="CSS3" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-128.png" />](https://www.w3schools.com/css/)
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-128.png" />](https://www.javascript.com/)
+[<img align="left" alt="Node.js" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-128.png" />](https://nodejs.org/en/)
+[<img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/png/128/226/226777.png" />](https://java.com/)
+[<img align="left" alt="Git" width="26px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-128.png" />](https://git-scm.com/)
+[<img align="left" alt="GitHub" width="26px" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Github-128.png" />](https://github.com/)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
+<br />
+<br />
