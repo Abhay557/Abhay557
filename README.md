@@ -1,7 +1,7 @@
 ## Hi there, I'm Abhay Mourya.
 - I'm  **Learner** | **Programmer** 
 - About me :- **Html Master** | **Web Apps**
-- Wanted To Be A | **Front-End/Back-End/Full-Stack**
+- Wanted To Be A | **Full-Stack(Front-End+Back-End/)**
 - Currently practicing **Deep Learning**
 - Willing to contribute more and more in **Open Source Projects**
 <details>
