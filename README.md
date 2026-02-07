@@ -1,9 +1,7 @@
 <div align="center">
   <h1>Abhay Mourya</h1>
   <h3>AI Engineer | NLP Specialist | Full Stack Developer</h3>
-  
   <br />
-
   <a href="https://abhaymourya.in">
     <img src="https://img.shields.io/badge/Portfolio-abhaymourya.in-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
@@ -34,12 +32,3 @@ I am an AI Engineering undergraduate focused on **Generative AI** and **System A
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay557&theme=gotham&hide_border=true" alt="GitHub Streak" />
-</div>
