@@ -17,7 +17,7 @@
 
 ### About Me
 
-I'm Abhay Mourya, an AI Engineer & Full Stack Developer from Nagpur, India. I specialize in building custom SLMs, advanced RAG pipelines, and full-stack AI applications. Whether I'm fine-tuning models for projects like the Technical Query System or building real-time web IDEs, my goal is to bridge the gap between AI research and production deployment.
+I'm Abhay Mourya, an AI Engineer & Full Stack Developer from Nagpur, India. I specialize in building custom SLMs, advanced RAG pipelines, and full-stack AI applications.
 
 ---
 
