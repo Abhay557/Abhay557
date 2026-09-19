@@ -8,7 +8,7 @@
 <br />
 
 
-I'm Abhay Mourya (known as abhay557), an AI Engineer & Full Stack Developer from Nagpur, India. I specialize in building full-stack AI applications.
+I'm Abhay Mourya (known as abhay557), an AI Engineer from Nagpur, India. I specialize in building full-stack AI applications.
 
 
 
